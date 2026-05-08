@@ -1,10 +1,11 @@
 # Copyright 2017 ForgeFlow S.L.
+# Copyright 2026 NTJ (https://www.ntj.co.id)
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Purchase Tier Validation",
     "summary": "Extends the functionality of Purchase Orders to "
     "support a tier validation process.",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Purchases",
     "website": "https://github.com/OCA/purchase-workflow",
     "author": "ForgeFlow, Odoo Community Association (OCA)",

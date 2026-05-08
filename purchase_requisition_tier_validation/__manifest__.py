@@ -1,11 +1,12 @@
 # Copyright 2019 Ecosoft Co., Ltd. (http://ecosoft.co.th)
+# Copyright 2026 NTJ (https://www.ntj.co.id)
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
 {
     "name": "Purchase Requisition Tier Validation",
     "summary": "Extends the functionality of Purchase Agreements to "
     "support a tier validation process.",
-    "version": "17.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Purchases",
     "website": "https://github.com/OCA/purchase-workflow",
     "author": "Ecosoft, Odoo Community Association (OCA)",

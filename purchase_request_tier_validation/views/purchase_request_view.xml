@@ -35,7 +35,7 @@
         <field name="inherit_id" ref="purchase_request.view_purchase_request_search" />
         <field name="arch" type="xml">
             <search position="inside">
-                <group expand="0" string="Need actions">
+                <group string="Need actions">
                     <filter
                         name="needs_review"
                         string="Needs my Review"

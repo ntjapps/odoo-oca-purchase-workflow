@@ -2,6 +2,7 @@
 # Copyright 2026 NTJ (https://www.ntj.co.id)
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html)
 
+# v19-incompat: Removed in v19: purchase.order form no longer has the action_create_invoice header button (anchor for 'Create Bill by Plan').
 {
     "name": "Purchase Invoice Plan",
     "summary": "Add to purchases order, ability to manage future invoice plan",
@@ -18,7 +19,7 @@
         "wizard/purchase_make_planned_invoice_view.xml",
         "views/purchase_view.xml",
     ],
-    "installable": True,
+    "installable": False,
     "maintainers": ["kittiu"],
     "development_status": "Alpha",
 }

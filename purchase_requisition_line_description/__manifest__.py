@@ -2,6 +2,7 @@
 # Copyright 2026 NTJ (https://www.ntj.co.id)
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
+# v19-incompat: Removed in v19: 'first' helper no longer exported from odoo.fields.
 {
     "name": "Purchase Requisition Line Description",
     "summary": "Extends the functionality of Purchase Agreements to "
@@ -12,7 +13,7 @@
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
-    "installable": True,
+    "installable": False,
     "depends": [
         "purchase_requisition",
     ],

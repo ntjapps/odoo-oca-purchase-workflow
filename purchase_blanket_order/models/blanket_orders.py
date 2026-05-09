@@ -585,7 +585,7 @@ class BlanketOrderLine(models.Model):
         "purchase_lines.order_id.state",
         "purchase_lines.blanket_order_line",
         "purchase_lines.product_qty",
-        "purchase_lines.product_uom",
+        "purchase_lines.product_uom_id",
         "purchase_lines.qty_received",
         "purchase_lines.qty_invoiced",
         "original_uom_qty",

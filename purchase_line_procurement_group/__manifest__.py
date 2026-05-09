@@ -1,6 +1,7 @@
 # Copyright 2018 Camptocamp SA
 # Copyright 2026 NTJ (https://www.ntj.co.id)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
+# v19-incompat: Removed in v19: comodel 'procurement.group' no longer registered as standalone model on purchase.order.line.
 {
     "name": "Purchase Line Procurement Group",
     "summary": "Group purchase order line according to procurement group",
@@ -10,5 +11,5 @@
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["purchase_stock"],
-    "data": ["views/purchase.xml"],
+    "data": ["views/purchase.xml"],    "installable": False,
 }

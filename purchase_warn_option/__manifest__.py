@@ -2,6 +2,7 @@
 # Copyright 2026 NTJ (https://www.ntj.co.id)
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl-3.0)
 
+# v19-incompat: Removed in v19: res.partner.purchase_warn Selection field gone.
 {
     "name": "Purchase Warn Option",
     "summary": "Add Options to Purchase Warn Messages",
@@ -13,7 +14,7 @@
     "maintainers": ["Shide", "rafaelbn"],
     "license": "LGPL-3",
     "application": False,
-    "installable": True,
+    "installable": False,
     "auto_install": True,
     "depends": ["purchase", "base_warn_option"],
     "data": [

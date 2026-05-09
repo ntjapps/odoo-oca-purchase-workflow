@@ -12,7 +12,7 @@ License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
             <field name="categ_id" position="after">
                 <field name="main_seller_id" />
             </field>
-            <filter name="categ_id" position="after">
+            <filter name="group_by_categ_id" position="after">
                 <filter
                     string="Main Vendor"
                     name="main_seller_id"

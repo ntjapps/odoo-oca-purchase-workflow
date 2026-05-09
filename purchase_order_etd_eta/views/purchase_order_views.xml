@@ -8,7 +8,7 @@
             <field name="origin" position="after">
                 <field name="shipping_schedule_note" />
             </field>
-            <filter name="late_rfqs" position="after">
+            <filter name="late" position="after">
                 <separator />
                 <filter name="date_etd" string="ETD" date="date_etd" />
                 <filter name="date_eta" string="ETA" date="date_eta" />

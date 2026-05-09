@@ -67,7 +67,7 @@
                     domain="[('active', '=', False)]"
                 />
                 <separator />
-                <group string="Group By">
+                <group>
                     <filter
                         string="Entry Sequence"
                         name="entry_sequence"

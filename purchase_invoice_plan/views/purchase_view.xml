@@ -128,7 +128,7 @@
                     domain="[('invoiced','=', True)]"
                     help="Purchase orders that have been invoiced."
                 />
-                <group string="Group By">
+                <group>
                     <filter
                         string="Supplier"
                         name="supplier"

@@ -182,7 +182,7 @@
                     name="accepted"
                     domain="[('state', '=', 'accept')]"
                 />
-                <group string="Group By">
+                <group>
                     <filter
                         string="Accepted By"
                         name="accept_by"

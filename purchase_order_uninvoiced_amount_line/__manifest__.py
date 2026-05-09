@@ -5,7 +5,7 @@
 {
     "name": "Purchase Order Line Uninvoiced Amount",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
-    "version": "19.0.1.0.0",
+    "version": "19.0.1.0.1",
     "development_status": "Beta",
     "website": "https://github.com/OCA/purchase-workflow",
     "category": "Purchase",

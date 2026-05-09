@@ -4,7 +4,7 @@
 
 {
     "name": "Purchase Work Acceptance",
-    "version": "19.0.1.0.0",
+    "version": "19.0.1.0.1",
     "category": "Purchase Management",
     "author": "Ecosoft, Odoo Community Association (OCA)",
     "license": "AGPL-3",
